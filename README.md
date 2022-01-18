@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
 **perfeclyImperfect/perfeclyImperfect** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Nihogalog
 - 🌱 I’m currently learning Flutter
@@ -12,4 +9,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything
 - 📫 How to reach me: via Facebook Messenger or Discord
 - ⚡ Fun fact: I'm good looking
--->
